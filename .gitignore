@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/OutboxPattern.Api/.vs
+/OutboxPattern.Api/OutboxPattern.Api/bin/Debug/net9.0
+/OutboxPattern.Api/OutboxPattern.Api/obj
